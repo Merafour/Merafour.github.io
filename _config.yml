@@ -28,7 +28,7 @@ nav:
   - name:           "Home"
     href:           "/"
   - name:           "About"
-    href:           "/about"
+    href:           "/about.html"
   - name:           "Download"
     href:           "/releases"
 
