@@ -1,20 +1,20 @@
-name:               "Ink"
-description:        "A minimalistic jekyll theme for humans"
+name:               "Merafour"
+description:        "一个人一辆单车走天涯"
 
 url:                ""
-author:             "thinker3197"
-email:              "jhondoe@abc.com"
+author:             "Merafour"
+email:              "Merafour@163.com"
 gravatar_hash:      "205e460b479e2e5b48aec07710c08d50"
-twitter:            "jhondoe"
-email:              "jhondoe@abc.com"
-github:             "jhondoe"
+twitter:            "Merafour"
+email:              "Merafour@163.com"
+github:             "Merafour"
 pinterest:          "jhondoe"
 linkedin:           "jhondoe"
 facebook:           "jhondoe"
 
 disqus_shortname:   "thinker3197"
 
-background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
+background:         "https://github.com/Merafour/MerafourImage/blob/master/merafour.jpg"
 
 paginate:           5
 paginate_path:      "/page:num/"
