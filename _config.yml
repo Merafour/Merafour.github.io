@@ -30,7 +30,7 @@ nav:
   - name:           "About"
     href:           "/about"
   - name:           "Download"
-    href:           "/releases"
+    href:           "/download.html"
 
 sass:
   style:            :compressed
