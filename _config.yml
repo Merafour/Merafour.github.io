@@ -25,6 +25,8 @@ permalink:          /:year/:month/:day/:title/
 markdown:           kramdown
 
 nav:
+  - name:           "Home"
+    href:           "/"
   - name:           "About"
     href:           "/about"
   - name:           "Download"
