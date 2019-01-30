@@ -9,7 +9,7 @@ author:       "Merafour"
 ~~~
 gem install jekyll
 ~~~
-这个时候会提示：
+这个时候会提示:
 ~~~
 Command 'gem' not found, but can be installed with:
 sudo apt install ruby
@@ -19,7 +19,7 @@ sudo apt install ruby
 sudo apt-get install ruby -y
 ~~~
 安装完了之后在运行命令 "sudo gem install jekyll"。
-但是我发现运行改名了出错了，
+但是我发现运行该命令出错了，
 ~~~
 Building native extensions. This could take a while...
 ERROR:  Error installing jekyll:
@@ -29,12 +29,12 @@ ERROR:  Error installing jekyll:
 /usr/bin/ruby2.5 -r ./siteconf20190130-2958-1gptzf5.rb extconf.rb
 mkmf.rb can't find header files for ruby at /usr/lib/ruby/include/ruby.h
 ~~~
-所以我就直接运行 jekyll，结果提示：
+所以我就直接运行 jekyll，结果提示:
 ~~~
 Command 'jekyll' not found, but can be installed with:
 sudo apt install jekyll
 ~~~
 到这里我发现居然可以直接安装。
-然后运行 "jekyll -v"输出："jekyll 3.1.6"说明安装成功。
+然后运行 "jekyll -v"输出: "jekyll 3.1.6"说明安装成功。
 
-参考：https://www.jekyll.com.cn/docs/quickstart/
+参考: https://www.jekyll.com.cn/docs/quickstart/

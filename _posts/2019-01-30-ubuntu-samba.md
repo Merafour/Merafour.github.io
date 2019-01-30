@@ -45,7 +45,7 @@ sudo smbpasswd -a ocean
 ~~~
 sudo /etc/init.d/samba-ad-dc restart
 ~~~
-我用的是 18.4系统，samba装完之后名字叫做 “samba-ad-dc”，所以命令中使用的是 samba-ad-dc。
+我用的是 18.4系统，samba装完之后名字叫做 "samba-ad-dc"，所以命令中使用的是 samba-ad-dc。
 
 6、windows下访问共享目录：
 ------------
