@@ -45,11 +45,16 @@ sudo smbpasswd -a ocean
 ~~~
 sudo /etc/init.d/samba-ad-dc restart
 ~~~
-我用的是 18.4系统，samba装完之后名字叫做 "samba-ad-dc"，所以命令中使用的是 samba-ad-dc。
+我用的是 18.4系统，samba装完之后名字叫做 "samba-ad-dc"，所以命令中使用的是samba-ad-dc。
 
 6、windows下访问共享目录：
-------------
+============
+
 window下访问samba共享目录使用快捷键“Win+R”然后输入"\\192.168.56.101"即可看到共享目录，192.168.56.101为Ubuntu主机IP。
 然后双击输入用户名和密码即可访问。
 最后可以在双击访问共享目录的时候右键映射网络驱动，这样以后就跟访问本地磁盘一样了。 
+
+参考:
+[ubuntu下Samba服务器的搭建](https://blog.csdn.net/u012478275/article/details/78876181)
+
 
