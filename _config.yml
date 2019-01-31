@@ -14,7 +14,7 @@ facebook:           "Merafour"
 
 disqus_shortname:   "thinker3197"
 
-background:         "https://github.com/Merafour/MerafourImage/blob/master/merafour.jpg"
+background:         "/image/merafour.jpg"
 
 paginate:           5
 paginate_path:      "/page:num/"
